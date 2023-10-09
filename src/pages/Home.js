@@ -29,7 +29,7 @@ const Home = () => {
           <div className="text">
             <section id="banner" style={{ height: '150px', margin: 'auto', position: 'sticky' }}>
               <div class="inner">
-                <h2>Lucian AI</h2>
+                <h2>Kerrigan ML</h2>
                 <p style={{ width: '50vw', textAlign: 'center', margin: 'auto' }}>Quantifying human emotions</p>
               </div>
             </section>
